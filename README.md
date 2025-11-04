@@ -5,7 +5,6 @@ Full Stack Engineer
 I've been engineering for 2 (and abit) years now, and have really found an interest in modern full stack development with tools such as NextJS, Supa/Firebase, Severless technologies and Edge Runtimes (fastly compute@edge , cloudflare workers)
 * 🌍  I'm based in London
 * ✉️  You can contact me at [andrew.morrisoon@gmail.com](mailto:andrew.morrisoon@gmail.com)
-* 🚀  I'm currently working at [Execify](https://www.execify.ai/)
 
 ### Skills
 
